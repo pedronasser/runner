@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/iron-io/runner/common"
-	"github.com/iron-io/runner/drivers"
+	"github.com/pedronasser/runner/common"
+	"github.com/pedronasser/runner/drivers"
 	"github.com/vrischmann/envconfig"
 )
 

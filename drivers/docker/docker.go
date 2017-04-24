@@ -32,9 +32,9 @@ import (
 	manifest "github.com/docker/distribution/manifest/schema1"
 	"github.com/fsouza/go-dockerclient"
 	"github.com/heroku/docker-registry-client/registry"
-	"github.com/iron-io/runner/common"
-	"github.com/iron-io/runner/common/stats"
-	"github.com/iron-io/runner/drivers"
+	"github.com/pedronasser/runner/common"
+	"github.com/pedronasser/runner/common/stats"
+	"github.com/pedronasser/runner/drivers"
 )
 
 const hubURL = "https://registry.hub.docker.com"

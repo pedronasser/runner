@@ -1,0 +1,32 @@
+
+[[dependencies]]
+  branch = "master"
+  name = "code.cloudfoundry.org/bytefmt"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/Sirupsen/logrus"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/cactus/go-statsd-client"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/docker/distribution"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/fsouza/go-dockerclient"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/heroku/docker-registry-client"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/iron-io/runner"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/vrischmann/envconfig"

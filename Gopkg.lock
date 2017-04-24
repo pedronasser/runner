@@ -1,0 +1,125 @@
+memo = "50867314de1dd2cc8cafa5d7f6ed09d91f232c99dcdb9f29309ac375d8d0993f"
+
+[[projects]]
+  branch = "master"
+  name = "code.cloudfoundry.org/bytefmt"
+  packages = ["."]
+  revision = "a75017a21993c80187c7fa4f3c1ec22ddd6a8cd5"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/Azure/go-ansiterm"
+  packages = [".","winterm"]
+  revision = "fa152c58bc15761d0200cb75fe958b89a9d4888e"
+
+[[projects]]
+  name = "github.com/Microsoft/go-winio"
+  packages = ["."]
+  revision = "fff283ad5116362ca252298cfc9b95828956d85d"
+  version = "v0.3.8"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/Sirupsen/logrus"
+  packages = [".","hooks/syslog"]
+  revision = "10f801ebc38b33738c9d17d50860f484a0988ff5"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/amir/raidman"
+  packages = [".","proto"]
+  revision = "1ccc43bfb9c93cb401a4025e49c64ba71e5e668b"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/cactus/go-statsd-client"
+  packages = ["statsd"]
+  revision = "91c326c3f7bd20f0226d3d1c289dd9f8ce28d33d"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/docker/distribution"
+  packages = [".","context","digest","manifest","manifest/schema1","reference","uuid"]
+  revision = "87917f30529e6a7fca8eaff2932424915fb11225"
+
+[[projects]]
+  name = "github.com/docker/docker"
+  packages = ["api/types","api/types/blkiodev","api/types/container","api/types/filters","api/types/mount","api/types/network","api/types/registry","api/types/strslice","api/types/swarm","api/types/versions","opts","pkg/archive","pkg/fileutils","pkg/homedir","pkg/idtools","pkg/ioutils","pkg/jsonlog","pkg/jsonmessage","pkg/longpath","pkg/pools","pkg/promise","pkg/stdcopy","pkg/system","pkg/term","pkg/term/windows"]
+  revision = "092cba3727bb9b4a2f0e922cd6c0f93ea270e363"
+  version = "v1.13.1"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/docker/go-connections"
+  packages = ["nat"]
+  revision = "990a1a1a70b0da4c4cb70e117971a4f0babfbf1a"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/docker/go-units"
+  packages = ["."]
+  revision = "f2d77a61e3c169b43402a0a1e84f06daf29b8190"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/docker/libtrust"
+  packages = ["."]
+  revision = "aabc10ec26b754e797f9028f4589c5b7bd90dc20"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/fsouza/go-dockerclient"
+  packages = ["."]
+  revision = "e24e809e9db395f1e3c85af1b88f2002023610f5"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/golang/protobuf"
+  packages = ["proto"]
+  revision = "2bba0603135d7d7f5cb73b2125beeda19c09f4ef"
+
+[[projects]]
+  name = "github.com/gorilla/context"
+  packages = ["."]
+  revision = "1c83b3eabd45b6d76072b66b746c20815fb2872d"
+
+[[projects]]
+  name = "github.com/gorilla/mux"
+  packages = ["."]
+  revision = "9c068cf16d982f8bd444b8c352acbeec34c4fe5b"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/hashicorp/go-cleanhttp"
+  packages = ["."]
+  revision = "ad28ea4487f05916463e2423a55166280e8254b5"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/heroku/docker-registry-client"
+  packages = ["registry"]
+  revision = "2a2e6b9e3eed0a98d438f111ba7469744c07281d"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/opencontainers/runc"
+  packages = ["libcontainer/system","libcontainer/user"]
+  revision = "522674998576b3aefdde233ffab20f763b83ac19"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/vrischmann/envconfig"
+  packages = ["."]
+  revision = "757beaaeac8d14bcc7ea3f71488d65cf45cf2eff"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/net"
+  packages = ["context","context/ctxhttp","proxy"]
+  revision = "d212a1ef2de2f5d441c327b8f26cf3ea3ea9f265"
+
+[[projects]]
+  branch = "master"
+  name = "golang.org/x/sys"
+  packages = ["unix","windows"]
+  revision = "7a6e5648d140666db5d920909e082ca00a87ba2c"
