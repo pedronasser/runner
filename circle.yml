@@ -22,7 +22,7 @@ dependencies:
     - go get -u github.com/golang/dep/...
   override:
     - which go && go version
-    - dep ensure:
+    - $GOPATH/bin/dep ensure:
         pwd: $GO_PROJECT
 
 test:
